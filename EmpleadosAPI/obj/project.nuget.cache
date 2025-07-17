@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "nEvruD11MnGNdqW/CmrYQTvZ74m2vSKweTnKl6hIieMQiv6LClcMVdPlMMtA5swnrPwjYAtXgkTg2uq+58W7ew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jasc_\\source\\repos\\GestionEmpleados\\EmpleadosAPI\\EmpleadosAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jasc_\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\jasc_\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\jasc_\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\jasc_\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\jasc_\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\jasc_\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
